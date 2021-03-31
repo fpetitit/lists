@@ -9,3 +9,6 @@ Outils :
 
 Formations :
 - https://clever-institut.com/formations/accessibilite-web/
+- https://www.octo.academy/fr/formation/534-techniques-de-verification-d-accessibilite
+
+https://www.paris-web.fr/2010/mini-conferences/estimer-laccessibilite-de-son-site-15-minutes-top-chrono.php
